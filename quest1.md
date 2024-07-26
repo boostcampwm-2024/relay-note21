@@ -146,11 +146,11 @@ AI가 대체하기 쉬운건 컴퓨터 프로그래머 → 개발자가 되도�
 
 - 1주차까지는 5시까지 많이 자서 피곤했다. 그래서 1시간만 일찍자보자! 라는 생각에 최대 시간을 4시로 정했다. 매일 노트북을 끄기 전에 몇시에 자는지 사진을 찍었고, 아쉽게도 9일차는 4시보다 살짝 늦게 잠들었다.. 그래도 4시 전에 잠들자는 퀘스트가 생기니 이때까지 뭘 좀 더 효율적으로 해봐야겠다, 어떤거에 중심을 더 둬야겠다 하는 판단을 더 할 수 있었다. 그리고 뭔갈 다 하지 못했더라도 불편한 마음보다 그래도 자야지.. 하고 편한 마음으로 잠들 수 있었던 것 같아 좋았다!
 1. 6일차
-![KakaoTalk_Photo_2024-07-26-11-14-31 001](https://gist.github.com/user-attachments/assets/1d423d5f-7c09-4d8c-b12f-89512310a0f4)
+![6일차](https://github.com/user-attachments/assets/d2442873-f5a3-42a0-a6bf-29f6cf7ecd4a)
 2. 7일차
-![KakaoTalk_Photo_2024-07-26-11-14-31 002](https://gist.github.com/user-attachments/assets/069b2a97-abb5-4827-aaba-72073f6014ed)
-3. 8일차
-![KakaoTalk_Photo_2024-07-26-11-14-31 003](https://gist.github.com/user-attachments/assets/99da8efb-c2ac-4172-b787-ab7fe628fe1e)
+![7일차](https://github.com/user-attachments/assets/b0f0e21d-a3c6-43a5-8a10-dae76c6cfd32)
+4. 8일차
+![8일차](https://github.com/user-attachments/assets/d729652b-b1bd-4d07-a431-16e9d4352c82)
 
 ### 5번 퀘스트 - 새로운 도전하기 (홍승완)
 - 원래는 혼자 고깃집(?)을 다녀오겠다는 도전을 우스갯소리로 하였으나,, 막상 미션에 치여 주중에는 급하게 한 끼 때우는 것이 고작이었습니다. 그래도 뭔가 새로 도전을 하고 싶기도 했고 음식과 관련하여 먹고는 싶지만 절대 내 돈주고 안먹을 것 같은 것을 시켜 먹었는데요, 네 그렇습니다. 드디어 나도 먹었다! 요아정!
